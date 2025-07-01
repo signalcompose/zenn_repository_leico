@@ -1,7 +1,7 @@
 title: "作って覚えるBlueprintプラグイン開発"
 summary: "この本では、Unreal Engine 5.5を用いたプラグイン開発の手法を、実践を通じて学びます。具体的には、外部ライブラリ「MidiFile」を活用し、MIDIファイルをUnreal Engine内で読み込み、再生するためのBlueprintノード群を作成します。初心者から中級者まで、プラグイン開発に挑戦したい方に向けた実用的な一冊です。"
 topics: ["unrealengine", "unrealengine5", "cpp", "blueprint"] # トピック（5つまで）
-published: false # falseだと下書き
+published: true # falseだと下書き
 price: 0 # 有料の場合200〜5000
 chapters:
   - "01"
